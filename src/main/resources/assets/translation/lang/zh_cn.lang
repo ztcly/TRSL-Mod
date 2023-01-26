@@ -1,0 +1,18 @@
+commands.trsl.usage=/trsl  cte或c2e(汉译英)/etc或e2c(英译汉)/ltc或l2c(拉丁文译中)  待翻译内容
+commands.trsl.error=模组发生错误
+commands.trsl.translation=翻译:
+commands.trsl.explains=释义:
+commands.trsl.explains.null=错误：释义为NULL
+commands.trsl.examtype.null=错误：考试类型为NULL(它可能就不是个考试词
+commands.trsl.examtype=考试类型：
+commands.trsl.errorcode.config=错误：遇到登录、验证等相关问题。请检查Mod配置中是否正确设置Mod的ID与密钥. %1$s
+commands.trsl.errorcode.unknown=错误：未知错误码 %1$s
+
+
+config.translation.general=翻译Mod配置界面
+config.translation.general.appkey=应用ID
+config.translation.general.appkey.tooltip=需要在有道控制台→我的应用→文本翻译→应用ID获取
+config.translation.general.appsecret=应用密钥
+config.translation.general.appsecret.tooltip=需要在有道控制台→我的应用→文本翻译→应用密钥获取
+
+

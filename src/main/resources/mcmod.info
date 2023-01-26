@@ -1,0 +1,16 @@
+[
+{
+  "modid": "translation",
+  "name": "Translation Mod",
+  "description": "使用有道翻译翻译命令指定内容",
+  "version": "0.1.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ztcly"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

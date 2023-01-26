@@ -1,0 +1,18 @@
+commands.trsl.usage=/trsl cte(c2e)/etc(e2c)/ltc(l2c)/ [...]
+commands.trsl.error=Mod error
+commands.trsl.translation=Translation:
+commands.trsl.explains=Explains:
+commands.trsl.explains.null=Error:explains are null
+commands.trsl.examtype.null=Error:examtypes are null
+commands.trsl.examtype=Exam Type:
+commands.trsl.errorcode.config=Error:Config: %1$s
+commands.trsl.errorcode.unknown=Error:Unknown errorcode %1$s
+
+
+config.translation.general=Translation Mod Config
+config.translation.general.appkey=APP Key
+config.translation.general.appkey.tooltip=APP Key(From YouDao console)
+config.translation.general.appsecret=APP secrect
+config.translation.general.appsecret.tooltip=APP secrect(From YouDao console)
+
+
